@@ -1,0 +1,9 @@
+.sindoor {
+    color: #e63900;
+}
+
+@media (max-width: 640px) {
+    .mobile-reverse {
+        flex-direction: column-reverse;
+    }
+}
